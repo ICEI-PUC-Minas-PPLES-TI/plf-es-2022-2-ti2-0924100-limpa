@@ -2,12 +2,12 @@ cff-version: 1.0.1
 message: Please cite this software using these metadata.
 title: Limpa Mais
 authors:
-  - family-names: Estevam Pacheco de Souza
-    given-names: Daniel 
-  - family-names: Augusto Souza Borges
-    given-names: Gabriel
-  - family-names: Francisco de Oliveira Júnior 
-    given-names: Ivan
+  - family-names: Pacheco de Souza
+    given-names: Daniel Estevam
+  - family-names: Souza Borges
+    given-names: Gabriel Augusto
+  - family-names: de Oliveira Júnior 
+    given-names: Ivan Francisco
   - family-names: Souza de Freitas
     given-names: Marcus Viniccius
   - family-names: Pierre Martins
